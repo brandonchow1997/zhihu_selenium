@@ -1,3 +1,5 @@
+# 已失效
+---
 # zhihu_selenium
 selenium驱动的知乎小爬虫
 selenium驱动chrome自动输入账号密码登录
